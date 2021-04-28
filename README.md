@@ -8,7 +8,7 @@
 #### Usage / 用法
 ```
 Brook wss: replace [app-name], [/ws] and [password]
-要把 [app-name] 和 [xxx] 和 [password] 改成自己的
+要把 [app-name] 和 [/ws] 和 [password] 改成自己的
 
 Server:   wss://[app-name].herokuapp.com:443[/ws]
 Password: [password]
@@ -44,7 +44,7 @@ addEventListener(
 Brook wss: replace [xxx], [yyy], [/ws] and [password]
 把cf workers的域名 [/ws] [password]那些都改成自己的
 
-Server:   wss://[xxx].[yyy].workers.dev/:443[/ws]
+Server:   wss://[xxx].[yyy].workers.dev:443[/ws]
 Password: [password]
 ```
 
