@@ -1,7 +1,3 @@
-#### Sign up / 註冊
-- [Sign up](https://signup.heroku.com/) if you don't have one.
-- 如果沒有heroku的就先去[註冊](https://signup.heroku.com/) 
-
 #### Deploy / 部署
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
@@ -50,5 +46,5 @@ Password: [password]
 
 ======================================================================
 
-### Logs / 事件紀錄檔
+### Logs
 `heroku logs --tail -a [app-name]`
