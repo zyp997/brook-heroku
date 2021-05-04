@@ -1,5 +1,4 @@
 #### Deploy / 部署
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) 或者/or 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMcDull-GitHub%2Fbrook-heroku&template=https%3A%2F%2Fgithub.com%2FMcDull-GitHub%2Fbrook-heroku)
 
 #### Usage / 用法
