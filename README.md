@@ -20,7 +20,7 @@ Brook link: https://[app-name].herokuapp.com:443/[password]/link.txt
 
 ======================================================================
 
-#### Cloudflare workers 加速，把第四行的[app-name]改成自己的 / (Recommend if you are in China)
+#### Cloudflare workers 加速，把第四行的[app-name]改成自己的 / (Recommended if you are in China)
 
 去 [cloudflare workers](https://dash.cloudflare.com/) 加入以下內容
 ```
