@@ -1,26 +1,26 @@
 {
     "name": "brook",
-    "description": "Set up a Brook wss server on Heroku.",
+    "description": "Deploy brook to Heroku.",
     "keywords": ["brook"],
     "env": {
         "password": {
-            "description": "The password (default: password)",
+            "description": "密码",
             "value": "password"
         },
         "ws_path": {
-            "description": "The ws path (default: /ws)",
+            "description": "ws 路径",
             "value": "/ws"
         },
         "url_redir": {
-            "description": "The website you want to redirect to (default: github.com/txthinking/brook)",
+            "description": "重定向",
             "value": "github.com/txthinking/brook"
         },
         "app_name": {
-            "description": "The app name, used to generate a Brook link and a QR code (default: skip)",
+            "description": "应用名",
             "value": "skip"
         }
     },
-    "website": "https://github.com/McDull-GitHub",
-    "repository": "https://github.com/McDull-GitHub/brook-heroku",
+    "website": "https://github.com/zyp997",
+    "repository": "https://github.com/zyp997/brook-heroku",
     "stack": "container"
 }
